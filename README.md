@@ -8,6 +8,7 @@ The primary objective of the video is to empower viewers to design and deploy AI
 
 ## Key Steps Covered in the Tutorial
 The video aims to demonstrate how to build AI agents that can:
+
 •	Handle both text and voice inputs via platforms like Telegram.
 
 •	Integrate with OpenAI's transcription services to process audio messages.
