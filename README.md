@@ -4,7 +4,8 @@
 ## Objective
 Provide a comprehensive, step-by-step guide for beginners interested in creating AI agents using the n8n automation platform. The tutorial focuses on integrating tools like OpenAI and Airtable to build a functional inventory management system, demonstrating how to set up triggers, connect services, and enable dynamic decision-making within workflows 
 
-![AI agent project 2](https://github.com/user-attachments/assets/a09fc597-004b-47cf-b5ba-0a6d6195a2ca)
+
+![AI agent project 2](https://github.com/user-attachments/assets/e79e19a1-dc8c-429a-9045-0a6379c32585)
 
 
 ## Key Steps Covered in the Tutorial
