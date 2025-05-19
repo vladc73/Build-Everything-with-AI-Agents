@@ -27,4 +27,4 @@ The video aims to demonstrate how to build AI agents that can:
 •	Testing and Deployment: Emphasis is placed on the importance of thorough testing and troubleshooting to ensure the AI agent functions as intended before full deployment.
 
 ## Tutorial
-<a href="">Transcript</a>
+<a href="TranscriptAI">Transcript</a>
